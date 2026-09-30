@@ -1,0 +1,14 @@
+# Librerías que usa este proyecto. Todas vienen ya en el entorno de la asignatura
+# (proyecto_ml, ver las instrucciones de instalación): si usas ese entorno NO hace
+# falta instalar este fichero. Sin versiones fijadas a propósito, para no cambiar
+# las del entorno si alguien lo ejecuta con pip.
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+tensorflow
+
+# NO incluida en proyecto_ml. Solo para enviar la submission a Kaggle:
+kaggle
